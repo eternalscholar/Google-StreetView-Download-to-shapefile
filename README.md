@@ -1,2 +1,2 @@
 # Google-StreetView-Download-to-shapefile
-Fetches Google street view images for each location of an input point file and creates a new image tagged shapefile
+Fetches Google street view images for each location of an input point shapefile. This program also creates a new point shapefile with the local drive links to the downloaded street view images added to the attribute table. Image metadata will be downloaded too as a separate file.
